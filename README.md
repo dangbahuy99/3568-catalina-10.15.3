@@ -11,4 +11,4 @@ About the specs:
 | **Wi-Fi Card** | Intel Dual Band AC-3165 |
 | **GPU** | Intel(R) HD Graphics 620 |
 
-**I always update the EFI when new update
+**I always update the EFI when new update**
