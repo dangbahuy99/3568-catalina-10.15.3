@@ -190,7 +190,8 @@
 		<key>DefaultVolume</key>
 		<string>MacOS</string>
 		<key>Arguments</key>
-		<string>darkwake=8 alcid=21</string>
+		<string>darkwake=8 alcid=21 -wegnoegpu
+-wegnoegpu</string>
 	</dict>
 	<key>GUI</key>
 	<dict>
@@ -225,7 +226,7 @@
 			<true/>
 		</dict>
 		<key>ScreenResolution</key>
-		<string>1920x1080</string>
+		<string>1366x768</string>
 	</dict>
 	<key>BootGraphics</key>
 	<dict>
