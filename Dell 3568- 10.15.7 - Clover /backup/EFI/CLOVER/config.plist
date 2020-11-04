@@ -160,6 +160,35 @@
 				<key>FixRegions</key>
 				<true/>
 			</dict>
+			<key>DropOEM_DSM</key>
+			<dict>
+				<key>USB</key>
+				<false/>
+				<key>HDMI</key>
+				<false/>
+				<key>ATI</key>
+				<false/>
+				<key>SmBUS</key>
+				<false/>
+				<key>LAN</key>
+				<false/>
+				<key>IntelGFX</key>
+				<false/>
+				<key>WIFI</key>
+				<true/>
+				<key>LPC</key>
+				<false/>
+				<key>Firewire</key>
+				<false/>
+				<key>IDE</key>
+				<false/>
+				<key>NVidia</key>
+				<false/>
+				<key>HDA</key>
+				<false/>
+				<key>SATA</key>
+				<false/>
+			</dict>
 		</dict>
 		<key>AutoMerge</key>
 		<true/>
