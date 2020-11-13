@@ -219,7 +219,7 @@
 		<key>DefaultVolume</key>
 		<string>MacOS</string>
 		<key>Arguments</key>
-		<string>darkwake=8 alcid=21</string>
+		<string>alcid=21</string>
 	</dict>
 	<key>GUI</key>
 	<dict>
